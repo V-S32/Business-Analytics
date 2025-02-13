@@ -1,5 +1,5 @@
 /* © 2025 Victoria Smart. All rights reserved. 
-@https://github.com/V-S32/Projects.git
+@https://v-s32.github.io/Business-Analytics/
 Business-Analytics*/
 
 --SALES & PRODUCT INSIGHTS
