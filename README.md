@@ -12,9 +12,9 @@ Welcome to the Business Analytics Project. This analysis is for a business that 
 
 # Dataset Overview
 The analysis utilizes three key tables:
-Products: Contains product details, including categories and prices.
-Orders: Tracks sales transactions, including order dates, product IDs, and quantities.
-PropertyInfo: Provides location details of properties purchasing from the business.
+1. Products: Contains product details, including categories and prices.
+2. Orders: Tracks sales transactions, including order dates, product IDs, and quantities.
+3. Property Info: Provides location details of properties purchasing from the business.
 
 # Key Insights
 1. Best-Selling Products & Categories: Identified the top-selling products and most preferred product categories across different property locations. Ranked sales by category and used aggregation functions to measure total sales revenue and volume.
