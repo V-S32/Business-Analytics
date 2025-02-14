@@ -127,7 +127,7 @@ SELECT * FROM RevenueByProductCategory
 WHERE "ProductCategory" = 'Office Supplies';
 
 
---Price impact on sales
+--Price impact on sales: To understand if the price of goods affects sales
 SELECT p."ProductName", p."ProductID", p."Price", 
 	SUM (o."Quantity") AS "SalesVolume"
 FROM products p
