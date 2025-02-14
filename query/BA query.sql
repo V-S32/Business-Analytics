@@ -2,7 +2,7 @@
 @https://v-s32.github.io/Business-Analytics/
 Business-Analytics*/
 
---SALES & PRODUCT INSIGHTS
+--Sales & Product Insights
 --Total revenue generated
 SELECT 
 	SUM (products."Price" * orders."Quantity") AS "Total revenue"
