@@ -17,7 +17,7 @@ The analysis utilizes three key tables:
 3. Property Info: Provides location details of properties purchasing from the business.
 
 ## Key Insights
-1. Best-Selling Products & Categories: Identified the top-selling products and most preferred product categories across different property locations. Ranked sales by category and used aggregation functions to measure total sales revenue and volume.
+1. Best-Selling Products & Categories: Identified the top-selling products and most preferred product categories across different property locations. Ranked sales by category and used aggregation functions to measure total sales, revenue, and volume.
 2. Geographic Sales Trends: Analyzed sales trends by state and city to identify high-revenue locations and determine preferred product categories in each location.
 3. Seasonal Sales Trends & Demand Forecasting: Examined monthly and yearly sales trends to determine peak seasons.
 4. Inventory Analysis & Stock Optimization: Analyzed product sales frequency to determine stock replenishment needs.
