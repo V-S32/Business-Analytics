@@ -1,5 +1,5 @@
 /* © 2025 Victoria Smart. All rights reserved. 
-@https://github.com/V-S32/SQL-Business-Analytics.git
+@https://github.com/V-S32/SQL-Rubys-Uncovering-Insights-for-Business-Profitability.git
 Business-Analytics*/
 
 --Sales & Product Insights
