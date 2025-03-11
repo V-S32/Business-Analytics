@@ -8,7 +8,7 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ## Project Overview
-Welcome to the **Business Analytics Project**. This analysis is for a business that specializes in the sale of office supplies, furnishings, and maintenance equipment across the U.S.The goal of this analysis is to extract meaningful insights using SQL to optimize business performance, improve inventory management, and enhance sales strategies.
+This project analyzes the data provided by a business that specializes in the sale of office supplies, furnishings, and maintenance equipment across the U.S. The goal of this analysis is to extract meaningful insights using SQL to optimize business performance, improve inventory management, and enhance sales strategies.
 
 ## Dataset Overview
 The analysis utilizes three key tables:
